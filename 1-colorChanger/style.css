@@ -1,0 +1,41 @@
+html {
+  margin: 50px;
+}
+nav {
+    background-color: #ffff;
+    padding: 10px 15px;
+    border: 3px solid black;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+span {
+  display :block;
+}
+.canvas {
+  margin: 100px auto 100px;
+  width: 90%;
+  text-align: center;
+}
+
+.button {
+  width: 100px;
+  height: 100px;
+  border: solid black 2px;
+  border-radius: 30px;
+  display: inline-block;
+}
+
+#grey {
+  background: grey;
+}
+
+#white {
+  background: white;
+}
+#blue {
+  background: blue;
+}
+#yellow {
+  background: yellow;
+}
