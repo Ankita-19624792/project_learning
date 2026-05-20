@@ -1,0 +1,26 @@
+body{
+    background-color: #020202;
+    color: #150e0e;
+    margin: 0;
+}
+nav {
+    background-color: #766666;
+    padding: 10px 15px;
+    border: 3px solid black;
+    border-radius: 20px;
+    display: inline-block;
+}
+.center {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#clock {
+    font-size: 40px;
+    background-color: rgb(149, 116, 206);
+    padding: 20px 50px;
+    margin-top: 10px;
+    border-radius :40px;
+}
